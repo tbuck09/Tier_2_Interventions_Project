@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+oval.png
+config.py
+literacy_survey.csv
+elementary_survey.csv
+self_survey.csv
+Survey_Data.xlsx
+survey_responses.csv

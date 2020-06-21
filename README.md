@@ -30,5 +30,7 @@ The Elementary Teacher's assessments proved more optimistic, though more modest 
 Though not included in Ms. Colburn's report of the study, I thought a quantitative analysis of the interviews might prove interesting, even if not necessary significant or meaningful.
 
 A simple breakdown of common words used in the interviews is telling: It's about "people". Excluding common words (the, a/an, and, I/me, you, them, etc.), a few of the most common words are "people","talk/talking", "know", "say", and "front". Considering the purpose of this study was to gauge the improvement of students who were "shy", another word commonly used in the interviews, or even silent in their 6th grade classes, the prevalence of these words maay suggest an immeasurable improvement in the students' confidence, their willingness to take positive risks, and to present and be present while sharing their knowledge and themselves to other people.
+### Word Cloud
 ![Word Cloud - All Responses](plots/all_responses_oval.png) 
+### Word Counts (n >= 5)
 ![Word Count - All Responses](plots/all_responses_word_count.png)
